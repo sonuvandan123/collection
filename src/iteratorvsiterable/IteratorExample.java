@@ -3,8 +3,8 @@ package iteratorvsiterable;
 public class IteratorExample {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Git hub code attached from infogain computer");
+		System.out.println("Or you can from second person who clone the code");
 	}
 
 }
